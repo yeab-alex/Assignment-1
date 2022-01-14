@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.AssemblyInfo.cs
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\Assignment_one.exe
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\Assignment_one.deps.json
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\Assignment_one.runtimeconfig.json
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\Assignment_one.dll
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\ref\Assignment_one.dll
+C:\Users\Student\Desktop\Assignment_one\bin\Debug\net6.0\Assignment_one.pdb
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.dll
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\ref\Assignment_one.dll
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.pdb
+C:\Users\Student\Desktop\Assignment_one\obj\Debug\net6.0\Assignment_one.genruntimeconfig.cache
